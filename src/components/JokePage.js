@@ -25,8 +25,8 @@ class JokePage extends Component {
         return (
             <div className = 'jokeContainer' >
                 <h1 className = 'jokeBox'>{this.props.joke.content}</h1>
-                <h5> I know u din laugh!</h5>
-                <button type='submit' onClick = {this.getJokes}> Try another </button>
+                <h5 className = 'subtitle'> Its OK, If u have not laughed yet!</h5>
+                <button className = 'nextButton' type='submit' onClick = {this.getJokes}> Try another </button>
                 {
                     this.state.counter === 6 &&
                     <Redirect to= '/winner' />

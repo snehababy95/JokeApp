@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import './Winner.css'
 class Winner extends Component {
     constructor(props) {
         super(props);
@@ -8,10 +8,10 @@ class Winner extends Component {
     }
     render() {
         return (
-            <div style = {{textAlign :'center'}}>
-<h2>Congratulations!, U proved that you are a real Stone-Face!</h2>
-<h5>Nothing can make u LAUGH!</h5>
-<h6>Atleast SMILE!</h6>
+            <div className = 'mainContainer'>
+<h2 className = 'congratsBox'>Congratulations!, U proved that you are a real Stone-Face!</h2>
+<h5 className ='subtitle'>Nothing can make u LAUGH!</h5>
+<h6 className = 'smile'>Atleast SMILE!</h6>
             </div>
          );
     }
