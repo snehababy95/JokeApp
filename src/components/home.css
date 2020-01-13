@@ -1,0 +1,23 @@
+.container {
+    background-image : url('../assets/images/joke-theme.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    font-size: 46px;
+    font-weight: bolder;
+}
+.button {
+    width: 150px;
+    height: 70px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
