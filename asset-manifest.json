@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JokeApp/static/css/main.5e5d0bb4.chunk.css",
+    "main.js": "/JokeApp/static/js/main.ee6ffeb5.chunk.js",
+    "main.js.map": "/JokeApp/static/js/main.ee6ffeb5.chunk.js.map",
+    "runtime-main.js": "/JokeApp/static/js/runtime-main.2be659a7.js",
+    "runtime-main.js.map": "/JokeApp/static/js/runtime-main.2be659a7.js.map",
+    "static/js/2.db317e1d.chunk.js": "/JokeApp/static/js/2.db317e1d.chunk.js",
+    "static/js/2.db317e1d.chunk.js.map": "/JokeApp/static/js/2.db317e1d.chunk.js.map",
+    "index.html": "/JokeApp/index.html",
+    "precache-manifest.679e8b1892dfc06025c3000eb62f7f12.js": "/JokeApp/precache-manifest.679e8b1892dfc06025c3000eb62f7f12.js",
+    "service-worker.js": "/JokeApp/service-worker.js",
+    "static/css/main.5e5d0bb4.chunk.css.map": "/JokeApp/static/css/main.5e5d0bb4.chunk.css.map",
+    "static/js/2.db317e1d.chunk.js.LICENSE": "/JokeApp/static/js/2.db317e1d.chunk.js.LICENSE",
+    "static/media/home.css": "/JokeApp/static/media/joke-theme.95baf399.jpg",
+    "static/media/logo.svg": "/JokeApp/static/media/logo.5d5d9eef.svg",
+    "static/media/JokePage.css": "/JokeApp/static/media/theme.d4f3e3e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2be659a7.js",
+    "static/js/2.db317e1d.chunk.js",
+    "static/css/main.5e5d0bb4.chunk.css",
+    "static/js/main.ee6ffeb5.chunk.js"
+  ]
+}
